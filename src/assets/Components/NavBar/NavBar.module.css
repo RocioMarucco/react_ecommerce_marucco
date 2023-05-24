@@ -1,0 +1,13 @@
+.nav {
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: slategrey;
+}
+
+.div {
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+}
