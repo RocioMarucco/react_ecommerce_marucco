@@ -1,0 +1,32 @@
+.CardItem {
+    width: 200px;
+    height: 350px;
+    font-size: small;
+    background-color: slategrey;
+    border-radius: 20px;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px;
+}
+
+.Header {
+    height: 200px;
+}
+
+.ItemHeader {
+    font-size: medium;
+    text-align: center;
+}
+
+.ItemImg {
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+}
+
+.Info {
+    font-size: small;
+    text-align: center;
+}

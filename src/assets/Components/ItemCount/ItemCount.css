@@ -1,0 +1,16 @@
+.Counter {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.Controls {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.ContainerButton {
+    display: flex;
+    justify-content: center;
+}
